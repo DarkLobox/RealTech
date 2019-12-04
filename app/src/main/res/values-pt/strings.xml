@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RealTech</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Configuracion</string>
+
+    <string name="menu_home">Página inicial</string>
+    <string name="menu_catalog">Catalogo</string>
+    <string name="menu_car">Carrinho</string>
+    <string name="menu_exit">Fechar Sessâo</string>
+    <string name="menu_configure">Configurar</string>
+    <string name="menu_about">Sobre</string>
+
+
+    <string name="title_activity_catalog">CatalogActivity</string>
+    <string name="title_activity_recover">RecoverActivity</string>
+    <string name="title_activity_sing_up">SingUpActivity</string>
+
+    <string name="add">Adicionar</string>
+    <string name="detail">Detalhes</string>
+    <string name="login">Iniciar Sessâo</string>
+    <string name="name">Primeiro nome</string>
+    <string name="email">Correio Electrônico</string>
+    <string name="password">Senha</string>
+    <string name="recover">Recuperar conta</string>
+    <string name="email_name">Correio o nome</string>
+    <string name="recover_label">Esqueci minha senha</string>
+    <string name="languaje_label">Linguagem</string>
+    <string name="sing_up_label">Criar uma conta</string>
+    <string name="recover_button">Recuperar</string>
+    <string name="register_button">Registrar</string>
+    <string name="login_button">Entrar</string>
+    <string name="conditions_label">Eu concordo com os termos e servicos</string>
+    <string name="title_activity_shopping_card">ShoppingCardActivity</string>
+    <string name="title_activity_process">ProcessActivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="urs">Usuario</string>
+    <string name="salir">Salir de Aplicacion</string>
+    <string name="del">Quitar</string>
+    <string name="apple">Airpod Apple</string>
+    <string name="lg">Celular LG</string>
+    <string name="leno">Laptop Lenovo</string>
+    <string name="tab">Tablet Apple</string>
+    <string name="acer">Computadora Acer</string>
+    <string name="des">Este dispositivo es bueno</string>
+    <string name="Communicate">Comunicacao</string>
+    <string name="abd">RealTech\nTodos or dereitos reservados\nDezembro 2019\n\nHecho por:\n\nGerardo Portocarrero Banda\nEder Gustavo Huarca Tea\nJheyson Zender Lopez Rodriguez\nLuis Armando Gomez Pomari</string>
+    <string name="Nc">Eu nao me importo</string>
+    <string name="mp">Meio de pagamento</string>
+    <string name="nt">Nº de Cartao</string>
+    <string name="direc">Morada</string>
+    <string name="cpos">Codigo Postal</string>
+    <string name="st">Sub Total: $0</string>
+    <string name="buy">Comprar</string>
+</resources>

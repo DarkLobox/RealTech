@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RealTech</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Inicio</string>
+    <string name="menu_catalog">Catalogo</string>
+    <string name="menu_car">Carrito</string>
+    <string name="menu_exit">Cerrar Sesión</string>
+    <string name="menu_configure">Configurar</string>
+    <string name="menu_about">Acerca De</string>
+
+
+    <string name="title_activity_catalog">CatalogActivity</string>
+    <string name="title_activity_recover">RecoverActivity</string>
+    <string name="title_activity_sing_up">SingUpActivity</string>
+
+    <string name="add">Agregar</string>
+    <string name="detail">Detalles</string>
+    <string name="login">Iniciar Sesión</string>
+    <string name="name">Nombre</string>
+    <string name="email">Correo Electronico</string>
+    <string name="password">Contraseña</string>
+    <string name="recover">Recuperar Cuenta</string>
+    <string name="email_name">Correo o Nombre</string>
+    <string name="recover_label">Olvide mi contraseña</string>
+    <string name="languaje_label">Idioma</string>
+    <string name="sing_up_label">Crear Cuenta</string>
+    <string name="recover_button">Recuperar</string>
+    <string name="register_button">Registrar</string>
+    <string name="login_button">Ingresar</string>
+    <string name="conditions_label">Estoy de acuerdo con los Terminos y Servicios</string>
+    <string name="title_activity_shopping_card">ShoppingCardActivity</string>
+    <string name="title_activity_process">ProcessActivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="urs">Usuario</string>
+    <string name="salir">Salir de Aplicacion</string>
+    <string name="del">Quitar</string>
+    <string name="apple">Airpod Apple</string>
+    <string name="lg">Celular LG</string>
+    <string name="leno">Laptop Lenovo</string>
+    <string name="tab">Tablet Apple</string>
+    <string name="acer">Computadora Acer</string>
+    <string name="des">Este dispositivo es bueno</string>
+    <string name="Communicate">Comunicacion</string>
+    <string name="abd">RealTech\nTodos los derechos reservados\nDiciembre 2019\n\nHecho por:\n\nGerardo Portocarrero Banda\nEder Gustavo Huarca Tea\nJheyson Zender Lopez Rodriguez\nLuis Armando Gomez Pomari</string>
+    <string name="Nc">No tengo cuenta</string>
+    <string name="mp">Medio de Pago</string>
+    <string name="nt">Nº de Tarjeta</string>
+    <string name="direc">Direccion</string>
+    <string name="cpos">Codigo Postal</string>
+    <string name="st">Sub Total: $0</string>
+    <string name="buy">Comprar</string>
+</resources>

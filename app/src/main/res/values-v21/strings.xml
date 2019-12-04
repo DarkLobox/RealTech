@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="salir">Salir de Aplicacion</string>
+    <string name="apple">Airpod Apple</string>
+    <string name="lg">Celular LG</string>
+    <string name="leno">Laptop Lenovo</string>
+    <string name="tab">Tablet Apple</string>
+    <string name="acer">Computadora Acer</string>
+    <string name="des">Este dispositivo es bueno</string>
+    <string name="Communicate">Comunicacion</string>
+    <string name="Nc">No tengo cuenta</string>
+    <string name="mp">Medio de Pago</string>
+    <string name="nt">Nº de Tarjeta</string>
+    <string name="direc">Direccion</string>
+    <string name="cpos">Codigo Postal</string>
+    <string name="st">Sub Total: $0</string>
+    <string name="buy">Comprar</string>
+</resources>
